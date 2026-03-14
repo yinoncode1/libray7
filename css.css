@@ -1,0 +1,23 @@
+body{
+    background-color: #101418;
+   color:  #EAECF0;
+}
+header{
+    text-align: center;
+}
+a:link, a:visited, a:hover{
+    color: skyblue;
+}
+a:active{
+    color: blueviolet;
+}
+footer{
+    text-align: center;
+
+}
+section{
+    display: inline-block;
+    margin-bottom: 20px;
+    border:solid 1px skyblue;
+    padding-right: 20px;
+}
